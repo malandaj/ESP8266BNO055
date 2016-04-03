@@ -26,9 +26,9 @@
 Adafruit_BNO055 bno = Adafruit_BNO055();
 
 SocketIOClient client;
-const char* ssid     = "hackmeifucan";
-const char* password = "Bpy()[wmmt]w#j$Q}X8S58$yH^:Hx5t)cTmSAad~SR*9z";
-char host[] = "192.168.0.14";
+const char* ssid     = "yourssid";
+const char* password = "yourstriongandsecretpassword";
+char host[] = "your ip";
 int port = 3000;
 
 /**************************************************************************/
